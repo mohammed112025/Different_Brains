@@ -11,6 +11,9 @@ between us by creating projects that require skills from different computer scie
 ## Team Projects Overview
 
 ## Team Members
+- Abdalla Gaber (Software Engineer)<br>
+[LinkedIn](https://www.linkedin.com/in/abdallagaber) - [GitHub](https://github.com/abdallagaber)
+
 - Ahmed Hassan (Front-End Developer)<br>
 [LinkedIn](https://www.linkedin.com/in/ahmed-abo-zaid-ab008217b) - [GitHub](https://github.com/AhmedAbozaid9)
   
@@ -28,6 +31,9 @@ between us by creating projects that require skills from different computer scie
 
 - Mohamed Khaled (Front-End Developer)<br>
 [LinkedIn](https://www.linkedin.com/in/bukhaled2002) - [GitHub](https://github.com/bukhaled2002)
+
+- Mohammed Magdy (Mobile Developer)<br>
+[LinkedIn](https://www.linkedin.com/in/mohamed-magdy-02a26521b) - [GitHub](https://github.com/MOHAMEDMEDOHEMEDA)
 
 - Mohammed Mustafa (Software Engineer | Data Scientist)<br>
 [LinkedIn](https://www.linkedin.com/in/mohammedmustafa112025/) - [GitHub](https://github.com/mohammed112025)
