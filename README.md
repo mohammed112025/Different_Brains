@@ -8,7 +8,7 @@ We are a team of programmers from the Faculty of Computers and Data Science (Ale
 Our goal is to improve our soft skills by creating a productive community and to exchange experiences 
 between us by creating projects that require skills from different computer science fields.
 
-## Team Projects
+## Team Projects Overview
 
 ## Team Members
 - Ahmed Hassan Abozaid (Front-End Developer)<br>
