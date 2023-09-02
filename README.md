@@ -17,8 +17,8 @@ between us by creating projects that require skills from different computer scie
 | Zyad Mohamed      | Data Analyst               | [LinkedIn ↗](https://www.linkedin.com/in/zyadmohamed007)         | [GitHub ↗](https://github.com/zyad246)             |
 | Aya Nabil         | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/aya-nabil-202781247)     | [GitHub ↗](https://github.com/1AyaNabil1)         |
 | Mahmoud Salama    | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/mahmoud-salama-5a0525227) | [GitHub ↗](https://github.com/MahmoudSalama7?tab=repositories) |
-| Mohammed Mustafa   | Data Scientist \| Softwaer Engineer | [LinkedIn ↗](https://www.linkedin.com/in/mohammedmustafa112025/) | [GitHub ↗](https://github.com/mohammed112025)     |
-| Youssef Ayman     | Data Scientist \| Softwaer Engineer | [LinkedIn ↗](https://www.linkedin.com/in/yousef-ayman/)         | [GitHub ↗](https://github.com/yousefayman2003)    |
+| Mohammed Mustafa   | Data Scientist \| Software Engineer | [LinkedIn ↗](https://www.linkedin.com/in/mohammedmustafa112025/) | [GitHub ↗](https://github.com/mohammed112025)     |
+| Youssef Ayman     | Data Scientist \| Software Engineer | [LinkedIn ↗](https://www.linkedin.com/in/yousef-ayman/)         | [GitHub ↗](https://github.com/yousefayman2003)    |
 | Ahmed Hassan      | Front-End Developer        | [LinkedIn ↗](https://www.linkedin.com/in/ahmed-abo-zaid-ab008217b) | [GitHub ↗](https://github.com/AhmedAbozaid9)      |
 | Mohamed Khaled    | Front-End Developer        | [LinkedIn ↗](https://www.linkedin.com/in/bukhaled2002)           | [GitHub ↗](https://github.com/bukhaled2002)       |
 | Ahmed Hossam      | Full-Stack Developer       | [LinkedIn ↗](https://www.linkedin.com/in/ahmed-hossam-19a303239) | [GitHub ↗](https://github.com/ahmedhoss22)        |
