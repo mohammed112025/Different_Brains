@@ -15,7 +15,7 @@ between us by creating projects that require skills from different computer scie
 |-------------------|----------------------------|--------------------------------------------------------------|-------------------------------------------------|
 | Youssef Ashraf    | Data Analyst               | [LinkedIn ↗](https://www.linkedin.com/in/youssef-ashraf-049881229) | [GitHub ↗](https://github.com/YoussefAsh7)        |
 | Zyad Mohamed      | Data Analyst               | [LinkedIn ↗](https://www.linkedin.com/in/zyadmohamed007)         | [GitHub ↗](https://github.com/zyad246)             |
-| Amany Gaber         | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/amany-gaber-b368a1220/)     | [GitHub ↗](https://github.com/1AyaNabil1)         |
+| Amany Gaber       | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/amany-gaber-b368a1220/)     | [GitHub ↗](https://github.com/amanygaber330)         |
 | Aya Nabil         | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/aya-nabil-202781247)     | [GitHub ↗](https://github.com/1AyaNabil1)         |
 | Mahmoud Salama    | Data Scientist             | [LinkedIn ↗](https://www.linkedin.com/in/mahmoud-salama-5a0525227) | [GitHub ↗](https://github.com/MahmoudSalama7?tab=repositories) |
 | Mohammed Mustafa   | Data Scientist \| Software Engineer | [LinkedIn ↗](https://www.linkedin.com/in/mohammedmustafa112025/) | [GitHub ↗](https://github.com/mohammed112025)     |
